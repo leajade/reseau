@@ -112,7 +112,7 @@ Vous aurez besoin d'un débuggeur et un désassembleur pour ce sujet. Il en exis
     0x0000000100000f6e in main ()
     ```
   
-    La chaine de caractère "Hello World" est stockée dans le registre RDI.
+    La chaine de caractère "Hello World" est stockée dans le registre RDI à l'adresse 0x100000fa2.
   
   - comment elle est affichée dans le terminal
   
